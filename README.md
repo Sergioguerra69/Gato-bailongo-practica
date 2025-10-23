@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started Todo App
 
 This project provides a sample todo list application. It demonstrates all of
@@ -54,3 +55,6 @@ When you're done, simply remove the containers by running the following command:
 ```
 docker compose down
 ```
+=======
+# Gato-bailongo-practica
+>>>>>>> a2351ff1ab254d0739bc800b94b3f1bee07a38e9
