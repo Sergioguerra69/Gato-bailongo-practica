@@ -1,0 +1,14 @@
+# Usar imagen base de OpenJDK
+FROM openjdk:17-alpine
+
+# Establecer directorio de trabajo
+WORKDIR /app
+
+# Copiar el archivo Java al contenedor
+COPY Suma.java .
+
+# Compilar el programa
+RUN javac Suma.java
+
+# Comando por defecto: ejecutar el programa
+CMD ["java", "Suma"]
