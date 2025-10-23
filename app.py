@@ -8,7 +8,7 @@ images = [
     "/static/gifs/cat1.gif",
     "/static/gifs/cat2.gif",
     "/static/gifs/cat3.gif",
-    "/static/gifs/cat4.gif",
+    "/static/gifs/cat4.gif", 
     "/static/gifs/cat5.gif",
     "/static/gifs/cat6.gif"
 ]
